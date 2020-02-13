@@ -1,6 +1,21 @@
+﻿to determine number of times that are character or sub string (?) with inner string 
+we use the count methods 
+
+inner first code cell we are gonna look at the string work tip 
+save your code and we are going to use the count method
+
+
+
+
+
+
+
+
+
+
 0
 00:00:04,167 --> 00:00:07,941
-문자열 내에서 문자 또는 하위 문자열이 
+문자열의 길이를 반환하고 싶으면, len() 메소드를 사용하면 됩니다
 
 1
 00:00:07,942 --> 00:00:12,700
